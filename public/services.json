@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Redstone Engineering Course",
+        "description": "This course is designed to teach students the fundamentals of redstone engineering. It is a great way to get started with redstone engineering.",
+        "price": 4800,
+        "img": "https://www.dummies.com/wp-content/uploads/365142.image0.jpg"
+    },
+    {
+        "id": 2,
+        "title": "PvP Tactics",
+        "description": "PVPing is a major part of Minecraft servers. Many people are unsure of how to exactly PVP. They get the concept: hit the other player, and don't die. But this tutorial gives you a lot of details on how exactly to PVP. If you have the right technique, you can kill a full diamond armour player with a stone sword! Pretty nice, right? This tutorial will teach you the basics of PVPing. You will learn how to hit players, how to deal with mobs, and how to deal with other players. ",
+        "price": 3600,
+        "img": "https://whatifgaming.com/wp-content/uploads/2021/12/image-9.png"
+    },
+    {
+        "id": 3,
+        "title": "Map Builiding",
+        "description": "In this course, players will explore Minecraft - a blocky, procedurally-generated 3D world, discover and extract raw materials, craft tools, and build structures or earthworks. Minecraft is the perfect avenue for designers and game builders to explore the basics of design & engineering and develop out-of-the-world virtual environments.",
+        "price": 1400,
+        "img": "https://i.pinimg.com/originals/b3/4b/dd/b34bddc62620d91ab1228a35878c74a1.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Plugin Development",
+        "description": "Whether you know Java or not, you will learn a lot from this course. I will be covering Java from basic to advanced throughout the course and it is a skill that you can carry all throughout life. When using it with Minecraft, you can create some amazing things; for instance, you could be developing for your own server, another server, or even make money from uploading your plugins online for people to purchase. At the end of this carefully constructed course you will be confident in creating plugins for Spigot, Bukkit & Bungee.",
+        "price": 2100,
+        "img": "https://i.ytimg.com/vi/rT-gZeevmZs/maxresdefault.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Survival Basics",
+        "description": "This course is designed to teach players the basics of survival. It is a great way to get started with survival. A simple and easily digestible course on Minecraft. This course, targeting complete beginners, takes students through a video based curriculum on how to play Minecraft survival. Fundamental skills will be presented, and we can assure students will complete the course and be able to play Minecraft with ease. On top of that, the course is simple and fun, and lectures are structured much like a Lets Play so students stay engaged.",
+        "price": 450,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51wuvlj1s7L._SX331_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Griefing",
+        "description": "Griefers are extremely trained and skilled in the art of griefing, and creatively utilize TNT through building traps and TNT Cannons. They enjoy blowing things up with TNT and they tend to have very destructive and mischievous personalities. This course will teach you how to build TNT Traps, TNT Cannons, and how to use TNT to blow up things.",
+        "price": "Coming Soon",
+        "img": "https://i0.wp.com/www.homeschoolingteen.com/wp-content/uploads/2015/05/minecraft-griefer.png"
+    },
+    {
+        "id": 7,
+        "title": "Server Management",
+        "description": "A strong foundation in deployment, configuration, and maintenance is essential knowledge to any server administrator looking to advance in the field. In this course, Server Management: Server Administration, you'll learn to install, configure and maintain the servers within your organization. First, you'll explore installing and deploying servers. Next, you'll discover how to perform the initial configuration tasks and allocate roles and services. Finally, you'll learn how to manage your assets across your enterprise. When you're finished with this course, you'll have the skills and knowledge of server administration needed to perform a wide range of tasks in support of the servers within your organization.",
+        "price": 8500,
+        "img": "https://preview.redd.it/ihez04hx04n21.png?width=954&format=png&auto=webp&s=2d23a64eacb0bd7bea828f5f159a98ab4f9954f7"
+    },
+    {
+        "id": 8,
+        "title": "Modded Client",
+        "description": "This course is designed to teach players the basics of modded Minecraft. It is a great way to get started with modded Minecraft. A simple and easily digestible course on Minecraft. This course, targeting complete beginners, takes students through a video based curriculum on how to play Minecraft survival. Fundamental skills will be presented, and we can assure students will complete the course and be able to play Minecraft with ease. On top of that, the course is simple and fun, and lectures are structured much like a Lets Play so students stay engaged.",
+        "price": 2500,
+        "img": "https://media.istockphoto.com/photos/computer-system-hacked-warning-picture-id1144604245?b=1&k=20&m=1144604245&s=170667a&w=0&h=523A0-3Zyqf_4cvAnEx218td3HVt1BzCiQbFoeZVXT8="
+    }
+]
